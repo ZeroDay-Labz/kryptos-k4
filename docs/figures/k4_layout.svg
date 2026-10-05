@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 866 344" width="866" height="344" role="img" aria-label="K4 ciphertext layout with the clue words">
+<rect width="866" height="344" fill="#fcfcfb"/>
+<text x="20" y="28" font-size="16" fill="#0b0b0b" text-anchor="start" font-weight="600" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">K4 as carved: 97 letters, with the two confirmed clue words</text>
+<text x="20" y="48" font-size="12" fill="#52514e" text-anchor="start" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">Cipher letter above, confirmed plaintext letter below. Row numbers are the position of the first letter.</text>
+<rect x="742" y="70" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="754.0" y="87" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<rect x="768" y="70" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="780.0" y="87" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B</text>
+<rect x="794" y="70" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="806.0" y="87" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="820" y="70" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="832.0" y="87" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">R</text>
+<rect x="40" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="52.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">U</text>
+<rect x="66" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="78.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<rect x="92" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="104.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">X</text>
+<rect x="118" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="130.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<rect x="144" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="156.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">G</text>
+<rect x="170" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="182.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">H</text>
+<rect x="196" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="208.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">U</text>
+<rect x="222" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="234.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">L</text>
+<rect x="248" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="260.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B</text>
+<rect x="274" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="286.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<rect x="300" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="312.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<rect x="326" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="338.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">L</text>
+<rect x="352" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="364.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I</text>
+<rect x="378" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="390.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">F</text>
+<rect x="404" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="416.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B</text>
+<rect x="430" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="442.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B</text>
+<rect x="456" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="468.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">W</text>
+<rect x="482" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="494.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">E</text>
+<text x="494.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">F</text>
+<rect x="508" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="520.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A</text>
+<text x="520.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">L</text>
+<rect x="534" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="546.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<text x="546.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">R</text>
+<rect x="560" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="572.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<text x="572.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">V</text>
+<rect x="586" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="598.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">N</text>
+<text x="598.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Q</text>
+<rect x="612" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="624.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<text x="624.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Q</text>
+<rect x="638" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="650.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">R</text>
+<text x="650.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">P</text>
+<rect x="664" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="676.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<text x="676.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">R</text>
+<rect x="690" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="702.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">H</text>
+<text x="702.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">N</text>
+<rect x="716" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="728.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">E</text>
+<text x="728.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">G</text>
+<rect x="742" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="754.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A</text>
+<text x="754.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="768" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="780.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<text x="780.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<rect x="794" y="128" width="24" height="46" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="806.0" y="167" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<text x="806.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<rect x="820" y="128" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="832.0" y="145" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<rect x="40" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="52.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<rect x="66" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="78.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">W</text>
+<rect x="92" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="104.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<rect x="118" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="130.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Q</text>
+<rect x="144" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="156.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<rect x="170" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="182.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">J</text>
+<rect x="196" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="208.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Q</text>
+<rect x="222" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="234.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<rect x="248" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="260.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">S</text>
+<rect x="274" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="286.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">E</text>
+<rect x="300" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="312.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="326" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="338.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Z</text>
+<rect x="352" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="364.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Z</text>
+<rect x="378" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="390.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">W</text>
+<rect x="404" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="416.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A</text>
+<rect x="430" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="442.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<rect x="456" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="468.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">J</text>
+<rect x="482" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="494.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="508" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="520.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">L</text>
+<rect x="534" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="546.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">U</text>
+<rect x="560" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="572.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">D</text>
+<rect x="586" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="598.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I</text>
+<rect x="612" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="624.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A</text>
+<rect x="638" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="650.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">W</text>
+<rect x="664" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="676.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I</text>
+<rect x="690" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="702.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">N</text>
+<rect x="716" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="728.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">F</text>
+<rect x="742" y="186" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="754.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B</text>
+<rect x="768" y="186" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="780.0" y="225" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B</text>
+<text x="780.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">N</text>
+<rect x="794" y="186" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="806.0" y="225" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">E</text>
+<text x="806.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Y</text>
+<rect x="820" y="186" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="832.0" y="225" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">R</text>
+<text x="832.0" y="203" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">P</text>
+<rect x="40" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="52.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">L</text>
+<text x="52.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">V</text>
+<rect x="66" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="78.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I</text>
+<text x="78.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<rect x="92" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="104.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">N</text>
+<text x="104.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<rect x="118" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="130.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">C</text>
+<text x="130.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">M</text>
+<rect x="144" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="156.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">L</text>
+<text x="156.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Z</text>
+<rect x="170" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="182.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">O</text>
+<text x="182.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">F</text>
+<rect x="196" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="208.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">C</text>
+<text x="208.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">P</text>
+<rect x="222" y="244" width="24" height="46" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="234.0" y="283" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<text x="234.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="248" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="260.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">W</text>
+<rect x="274" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="286.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">G</text>
+<rect x="300" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="312.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">D</text>
+<rect x="326" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="338.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="352" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="364.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Z</text>
+<rect x="378" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="390.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">X</text>
+<rect x="404" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="416.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">T</text>
+<rect x="430" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="442.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">J</text>
+<rect x="456" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="468.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">C</text>
+<rect x="482" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="494.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">D</text>
+<rect x="508" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="520.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I</text>
+<rect x="534" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="546.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">G</text>
+<rect x="560" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="572.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="586" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="598.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">U</text>
+<rect x="612" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="624.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">H</text>
+<rect x="638" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="650.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">U</text>
+<rect x="664" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="676.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A</text>
+<rect x="690" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="702.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">U</text>
+<rect x="716" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="728.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">E</text>
+<rect x="742" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="754.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">K</text>
+<rect x="768" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="780.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">C</text>
+<rect x="794" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="806.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A</text>
+<rect x="820" y="244" width="24" height="24" rx="3" fill="none" stroke="#e3e2dc"/>
+<text x="832.0" y="261" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">R</text>
+<text x="32" y="87" font-size="11" fill="#52514e" text-anchor="end" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">1</text>
+<text x="32" y="145" font-size="11" fill="#52514e" text-anchor="end" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">5</text>
+<text x="32" y="203" font-size="11" fill="#52514e" text-anchor="end" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">36</text>
+<text x="32" y="261" font-size="11" fill="#52514e" text-anchor="end" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">67</text>
+<rect x="40" y="310" width="14" height="14" rx="3" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="62" y="322" font-size="12" fill="#52514e" text-anchor="start" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">EASTNORTHEAST, positions 22-34</text>
+<rect x="310" y="310" width="14" height="14" rx="3" fill="#eb6834" fill-opacity="0.16" stroke="#eb6834" stroke-width="1.5"/>
+<text x="332" y="322" font-size="12" fill="#52514e" text-anchor="start" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">BERLINCLOCK, positions 64-74</text>
+</svg>

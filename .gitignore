@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# editors
+.idea/
+.vscode/
+
+# compiled helpers (built on first use from the .c files next to them)
+k4/gsolve
+k4/kwcsp
+k4/chaint
+k4/colsweep
+k4/colsweep_gpu
+k4/qsolve
+k4/b5solve
+k4/raycast
+
+# generated data
+k4/quadgram_prose.bin
+*.log
